@@ -37,7 +37,7 @@ $.extend(HorizontalPanels.prototype, {
     content: QuickUI.Element("HorizontalPanels_content").content(),
     fill: QuickUI.Element().applyClass("fill"),
     left: QuickUI.Element("HorizontalPanels_left").content(),
-    right: QuickUI.Element("HorizontalPanels_right").content(),
+    right: QuickUI.Element("HorizontalPanels_right").content()
 });
 </script>
 
