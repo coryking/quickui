@@ -1,0 +1,14 @@
+<Control name="Foo">
+
+<content>
+    <h1>Heading</h1>
+    <LoremIpsum/>
+</content>
+
+<style>
+h1, h2 {
+    color: orange;
+}
+</style>
+
+</Control>
